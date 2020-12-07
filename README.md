@@ -5,8 +5,8 @@
 ### Feature Selection
 ### Model 
 <br>
-* Feature Selection methods: Spearman's Corelation coefficeint and ANOVA  
-* Model : Decision Tree Regressor and RandomForest Regressor , with max_depth 7.
+* Feature Selection methods: Spearman's Corelation coefficeint and ANOVA  <br>
+* Model : Decision Tree Regressor and RandomForest Regressor , with max_depth 7. <br>
 * Accuracy in both models is coming approximately 60%. 
 <br><br>
 
